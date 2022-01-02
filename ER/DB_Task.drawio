@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T12:22:25.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4750.0 Safari/537.36" etag="g7UqxsWPg8LFRPQkH8u8" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T06:52:54.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4750.0 Safari/537.36" etag="Ig8QGWppBw8zTizNIM5S" version="16.1.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1202" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="4TYrvMmRrXOeXMeVJWf3-38" value="车队" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="90" y="170" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4TYrvMmRrXOeXMeVJWf3-39" value="车队编号&#xa;创立时间" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="4TYrvMmRrXOeXMeVJWf3-38" vertex="1">
+        <mxCell id="4TYrvMmRrXOeXMeVJWf3-39" value="车队编号" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="4TYrvMmRrXOeXMeVJWf3-38" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4TYrvMmRrXOeXMeVJWf3-41" value="线路" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="4TYrvMmRrXOeXMeVJWf3-43" value="司机" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="590" y="110" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4TYrvMmRrXOeXMeVJWf3-44" value="姓名&#xa;性别&#xa;工号&#xa;入职时间&#xa;身份证&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="4TYrvMmRrXOeXMeVJWf3-43" vertex="1">
+        <mxCell id="4TYrvMmRrXOeXMeVJWf3-44" value="姓名&#xa;性别&#xa;工号&#xa;入职时间&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="4TYrvMmRrXOeXMeVJWf3-43" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4TYrvMmRrXOeXMeVJWf3-49" value="违章" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="4TYrvMmRrXOeXMeVJWf3-59" value="队长" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="90" y="350" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4TYrvMmRrXOeXMeVJWf3-60" value="姓名" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="4TYrvMmRrXOeXMeVJWf3-59" vertex="1">
+        <mxCell id="4TYrvMmRrXOeXMeVJWf3-60" value="姓名&#xa;队长编号" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="4TYrvMmRrXOeXMeVJWf3-59" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4TYrvMmRrXOeXMeVJWf3-61" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4TYrvMmRrXOeXMeVJWf3-60" target="4TYrvMmRrXOeXMeVJWf3-39" edge="1">
@@ -109,7 +109,8 @@
             <mxPoint x="470" y="500" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="268" />
+              <mxPoint x="90" y="245" />
+              <mxPoint x="40" y="245" />
               <mxPoint x="40" y="490" />
               <mxPoint x="550" y="490" />
               <mxPoint x="550" y="420" />
